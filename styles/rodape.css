@@ -23,6 +23,10 @@ hr {
         font-size: 1.5em;
     }
 
+    .lista-rodape {
+        display: block;
+    }
+
     .lista-rodape__titulo {
         text-transform: uppercase;
         color: var(--cinza-claro);
